@@ -1,9 +1,4 @@
 
-*****************************************************************************QUESTION 2*****************************************************************************
-
-********************************************************* DESIGNED BY: PRAVAKAR PANTA AND SHRADDHA PANDEY *********************************************************
-
-
 Description	: Title of the game is SAVE THE NUTS. The main objective of the game is to prevent the squirrel from eating the nuts in the basket guarded by the 
 		  the armored human. Human is provided with gun to shoot the squirrel. This game is developed using Pycharm and runs in Pycharm and visual studio.
 
@@ -28,7 +23,6 @@ How to Play	: To play this game you need to move human in any direction North, E
 
 How to Win	: You need prevent the squirrel from eating the nuts for the given time frame. If you fail to do so then you will lose. Every time the squirrel eats 		  	  the nuts your health bar will decrease.
 
-For any Queries	: Mail us at: 	s335675@students.cdu.edu.au --> Pravakar Panta
-				s330137@students.cdu.edu.au --> Shraddha Pandey
+
 		
 									
